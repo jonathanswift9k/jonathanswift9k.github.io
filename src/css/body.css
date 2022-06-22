@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,400;1,600&display=swap');
+
+* {
+    background-color: whitesmoke !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+p {
+    font-size: calc(12px + 2vw)
+}
+
+h1 {
+    font-size: 2vw;
+}
+
+h2 {
+    font-size: 1.75vw;
+}
+
+div {
+    height: 100%;
+    width: 80vw;
+    text-align: left !important;
+}
+
+.right-to-left-enter {
+    transform: translateX(100%);
+}
+.right-to-left-enter-active {
+    transform: translateX(0);
+    transition:all 1s ease-in;
+}      
+
+.right-to-left-exit {
+    transform: translateX(0);
+}
+.right-to-left-exit-active {
+    transform: translateX(-200%);
+}      
+
+.left-to-right-enter {
+    transform: translateX(-100%);
+}
+.left-to-right-enter-active {
+    transform: translateX(0);
+    transition:all 1s ease-in;
+}      
+
+.left-to-right-exit {
+    transform: translateX(0);
+}
+.left-to-right-exit-active {
+    transform: translateX(100%);
+    transition:all 1s ease-in;
+}      
+
+@media screen and (max-width: 960px) {
+    p {
+        font-size: 2em;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h2 {
+        font-size: 1.25em;
+    }
+
+}

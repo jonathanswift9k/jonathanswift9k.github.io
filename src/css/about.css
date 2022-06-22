@@ -1,0 +1,22 @@
+.about {
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.about > p {
+    font-size: 2.25vw;
+}
+
+@media only screen and (max-width: 960px) {
+    .about > p {
+        font-size: 1.5em;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .about > p {
+        font-size: 1em;
+    }
+
+}

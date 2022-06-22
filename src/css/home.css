@@ -1,0 +1,8 @@
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2.5s;
+  }
+
+.home {
+  margin-top: 15%;
+  background-color: transparent;
+}

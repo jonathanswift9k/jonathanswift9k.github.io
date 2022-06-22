@@ -1,0 +1,17 @@
+.all > p {
+    font-size: 2vw;
+}
+
+@media only screen and (max-width: 960px) {
+    .all > p {
+        font-size: 1.5em;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .all > p {
+        font-size: 1em;
+    }
+
+}

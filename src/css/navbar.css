@@ -1,0 +1,21 @@
+/*NavBar*/
+
+.leftBtn {
+    position: fixed;
+    bottom: 10px;
+    left: 5%;
+    font-size: 50px;
+    background-color: transparent;
+}
+
+.rightBtn {
+    position: fixed;
+    bottom: 10px;
+    right: 5%;
+    font-size: 50px;
+    background-color: transparent;
+}
+
+.hide {
+    display: none !important
+}
