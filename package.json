@@ -13,7 +13,8 @@
     "axios": "^0.27.2",
     "express": "^4.18.1",
     "mongoose": "^6.3.4",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "react-responsive": "^9.0.0-beta.10"
   },
   "proxy": "http://localhost:9000",
   "devDependencies": {
