@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a622cb89.css",
-    "main.js": "/static/js/main.84d711e7.js",
+    "main.css": "/static/css/main.04d2ff7d.css",
+    "main.js": "/static/js/main.c4b31430.js",
     "static/media/JonathanSwiftVSchoolCred.png": "/static/media/JonathanSwiftVSchoolCred.c6c4af3cb0356384a84f.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "index.html": "/index.html",
-    "main.a622cb89.css.map": "/static/css/main.a622cb89.css.map",
-    "main.84d711e7.js.map": "/static/js/main.84d711e7.js.map"
+    "main.04d2ff7d.css.map": "/static/css/main.04d2ff7d.css.map",
+    "main.c4b31430.js.map": "/static/js/main.c4b31430.js.map"
   },
   "entrypoints": [
-    "static/css/main.a622cb89.css",
-    "static/js/main.84d711e7.js"
+    "static/css/main.04d2ff7d.css",
+    "static/js/main.c4b31430.js"
   ]
 }
