@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3cf5668.css",
-    "main.js": "/static/js/main.76fba50b.js",
+    "main.css": "/static/css/main.e0fbac5b.css",
+    "main.js": "/static/js/main.79427366.js",
     "static/media/JonathanSwiftVSchoolCred.png": "/static/media/JonathanSwiftVSchoolCred.c6c4af3cb0356384a84f.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
-    "static/media/poppins-mediumitalic-webfont.woff": "/static/media/poppins-mediumitalic-webfont.1148493903cce8d40ed9.woff",
-    "static/media/poppins-mediumitalic-webfont.woff2": "/static/media/poppins-mediumitalic-webfont.d55c1969090dd1155fc3.woff2",
+    "static/media/poppins-semibolditalic-webfont.woff": "/static/media/poppins-semibolditalic-webfont.de344281a5a3eb003ed4.woff",
+    "static/media/poppins-italic-webfont.woff": "/static/media/poppins-italic-webfont.eea09b776d8cf68ba1ba.woff",
+    "static/media/poppins-semibolditalic-webfont.woff2": "/static/media/poppins-semibolditalic-webfont.6a53e9bb13f99c024048.woff2",
+    "static/media/poppins-italic-webfont.woff2": "/static/media/poppins-italic-webfont.50259a2294c388860046.woff2",
     "index.html": "/index.html",
-    "main.a3cf5668.css.map": "/static/css/main.a3cf5668.css.map",
-    "main.76fba50b.js.map": "/static/js/main.76fba50b.js.map"
+    "main.e0fbac5b.css.map": "/static/css/main.e0fbac5b.css.map",
+    "main.79427366.js.map": "/static/js/main.79427366.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3cf5668.css",
-    "static/js/main.76fba50b.js"
+    "static/css/main.e0fbac5b.css",
+    "static/js/main.79427366.js"
   ]
 }
