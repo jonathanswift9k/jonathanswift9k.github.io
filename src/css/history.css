@@ -1,9 +1,16 @@
+@font-face {
+    font-family: "PoppinsLight";
+    src: url("../fonts/poppins-italic-webfont.woff") format("woff");
+    src: url("../fonts/poppins-italic-webfont.woff2") format("woff2");
+}
+
 .historyContainer {
     margin-bottom: 10%;
 }
 
-.historyContainer > h3 {
-    margin-bottom: 5%;
+.historyContainer > h2 {
+    margin-bottom: 3%;
+    font-family: "PoppinsLight", sans-serif;
 }
 
 .histDiv {

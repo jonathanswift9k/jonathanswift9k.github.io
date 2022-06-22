@@ -16,7 +16,7 @@ export default function App() {
     const [page, setPage] = useState(1)
     const [isNext, setIsNext] = useState(false);
     const isDesktop = useMediaQuery({
-        query: '(min-width: 1224px)'
+        query: '(min-width: 1100px)'
       })
 
     const pageSelector = () => {
