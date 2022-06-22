@@ -18,7 +18,7 @@ export default function App() {
     const isDesktop = useMediaQuery({
         query: '(min-width: 1224px)'
       })
-      
+
     const pageSelector = () => {
         if(page === 1) {
             return (
