@@ -38,8 +38,20 @@
     background: transparent;
 }
 
-.buttonText:hover > p {
-    opacity: 1;
+@media screen and (max-width: 1100px) {
+    .buttonText > p {
+        opacity: .5;
+        font-size: 1em;
+        padding: 0;
+        margin: 0;
+        background: transparent;
+    }
+}
+
+@media (hover: hover) {
+    .buttonText:hover > p {
+        opacity: 1;
+    }
 }
 
 .historyText {

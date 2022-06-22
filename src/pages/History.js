@@ -23,11 +23,7 @@ export default function History() {
     ]
 
     const handleClick = () => {
-        setTimeout(() => {
-            setHistLength(prev => !prev)
-        }, "250")
-        
-        document.querySelector(".historyText").focus()
+        setHistLength(prev => !prev)
     }
 
     const view = () => {
