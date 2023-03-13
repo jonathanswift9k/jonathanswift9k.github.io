@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca9d065f.css",
+    "main.css": "/static/css/main.c5b2a062.css",
     "main.js": "/static/js/main.58fef592.js",
     "static/media/JonathanSwiftVSchoolCred.png": "/static/media/JonathanSwiftVSchoolCred.c6c4af3cb0356384a84f.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
@@ -8,11 +8,11 @@
     "static/media/poppins-italic-webfont.woff": "/static/media/poppins-italic-webfont.eea09b776d8cf68ba1ba.woff",
     "static/media/poppins-italic-webfont.woff2": "/static/media/poppins-italic-webfont.50259a2294c388860046.woff2",
     "index.html": "/index.html",
-    "main.ca9d065f.css.map": "/static/css/main.ca9d065f.css.map",
+    "main.c5b2a062.css.map": "/static/css/main.c5b2a062.css.map",
     "main.58fef592.js.map": "/static/js/main.58fef592.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca9d065f.css",
+    "static/css/main.c5b2a062.css",
     "static/js/main.58fef592.js"
   ]
 }
