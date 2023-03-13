@@ -9,7 +9,7 @@ export default function History() {
             firstLine: "Project Director @ InMoment",
             secondLine: "Project Director, December 2021 - Present",
             thirdLine: "Intern, June 2021 - December 2021",
-            fourthLine: "As an Project Director, I work with a multitude of premier business clientele to create, manage, and maintain consumer facing surveys for overall market research. I am also part of a specialized team of workers dedicated to improving infrastructural methods with the goal of reducing manual hours through code and automation. I frequently work through Jira tickets to fulfill client requests for programming updates to consumer surveys."
+            fourthLine: "As a Project Director, I work with a multitude of premier business clientele to create, manage, and maintain consumer facing surveys for overall market research. I am also part of a specialized team of workers dedicated to improving infrastructural methods with the goal of reducing manual hours through code and automation. I frequently work through Jira tickets to fulfill client requests for programming updates to consumer surveys."
         },
         {
             firstLine: "Installer @ Quirk, Inc.",
