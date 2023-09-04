@@ -6,10 +6,11 @@ export default function History() {
 
     const jobArr = [
         {
-            firstLine: "Project Director @ InMoment",
-            secondLine: "Project Director, December 2021 - Present",
-            thirdLine: "Intern, June 2021 - December 2021",
-            fourthLine: "As a Project Director, I work with a multitude of premier business clientele to create, manage, and maintain consumer facing surveys for overall market research. I am also part of a specialized team of workers dedicated to improving infrastructural methods with the goal of reducing manual hours through code and automation. I frequently work through Jira tickets to fulfill client requests for programming updates to consumer surveys."
+            firstLine: "Application Specialist @ InMoment",
+            secondLine: "Application Specialist, May 2023 - Present",
+            thirdLine: "Project Director, December 2021 - May 2023",
+            fourthLine: "Intern, June 2021 - December 2021",
+            fifthLine: "As an Application Specialist, I am responsible for both building and maintaining customer facing surveys, as well as building custom reports/data validations, workflows. I am tasked with maintaining a very in-depth understanding of each component within the platform. Because of my progamming knowledge, I have been chosen to participate alonside a specialized team of other Specialists, with the goal of maximizing efficiency across the board - often utilizing the ability to create custom applications through the Apps Script of Google Sheets. I am frequently brought in to assist the other Specialists in their more complex client asks, typically requiring high-level custom extensibility revolving around JavaScript (mainly jQuery), CSS and HTML."
         },
         {
             firstLine: "Installer @ Quirk, Inc.",
